@@ -1,0 +1,7 @@
+Потребуется Apache Tomcat, mySQL, XAMPP control panel.
+
+В XAMPP нажимаем на кнопки Start у Apache, MySQL и Tomcat. MySql Admin для захода на бд.
+
+Сначала запускается бэк (сам запускал с помощью apache netbeans - создавался сервер tomcat + clean and build + запуск) - должна вылезти страничка с надписью good, что обозначает о создании БД.
+
+После запускается фронт. Использовал visual studio code, в терминале команда npm start при установленных node_modules. Сайт сам откроется.
